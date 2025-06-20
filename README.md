@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ali Louhab
+# Hi, I'm Ali Louhab
 
 I'm a self-taught developer from Morocco 🇲🇦 who builds full-stack applications using Go and JavaScript, and explores systems programming with Rust.
 
