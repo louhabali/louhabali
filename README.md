@@ -20,7 +20,7 @@ I'm a self-taught developer from Morocco 🇲🇦 who builds full-stack applicat
 - ⚙️ [Mini JavaScript Framework](https://github.com/louhabali/js-mini-framework)  
   A minimalist custom framework with virtual DOM, state management, and routing.
 
-- 🔗 [Forum API in Go](https://github.com/louhabali/realtime-forum)  
+- 🔗 [Forum](https://github.com/louhabali/realtime-forum)  
   RESTful API with user auth, post likes/dislikes, SQLite, and WebSocket chat.
 
 ### 📫 Reach Me
