@@ -41,9 +41,9 @@
 
 ---
 
-### 🧠 Quote I Live By
+### my special quote
 
 ```bash
-> “Build it until you understand it. Rebuild it until it’s beautiful.” — Ali Louhab
+> “it doesn't matter how slowly you go as long as you don't stop” — Ali Louhab
 
 
