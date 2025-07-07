@@ -1,32 +1,49 @@
-# Hi, I'm Ali Louhab
+<h1 align="center">Hi, I'm Ali Louhab 👋</h1>
 
-I'm a self-taught developer from Morocco 🇲🇦 who builds full-stack applications using Go and JavaScript, and explores systems programming with Rust.
+<p align="center">
+  <em>A self-taught developer from Morocco 🇲🇦 passionate about low-level systems, elegant code, and building from scratch.</em>
+</p>
+
+---
 
 ### 🧰 Tech Stack
 
 - **Languages:** Go (Golang), JavaScript, Rust  
-- **Web Technologies:** REST APIs, WebSockets, GraphQL  
-- **Database:** SQLite3 (direct manipulation, no ORM)  
+- **Web:** REST APIs, WebSockets, GraphQL  
+- **Database:** SQLite3 (raw queries, no ORM)  
 - **Frontend:** React.js, Next.js  
 - **Backend:** Custom servers in Go & Rust  
-- **Problem Solving:** Algorithms and data structures in Go, JS, and Rust  
-- **CLI Development:** Building command-line tools for productivity  
-- **Other Skills:** Custom frameworks, game engines, full-stack development
+- **CLI:** Productivity command-line tools  
+- **Other:** Custom frameworks, game engines, algorithm design  
 
-### 🚀 Projects
-- 🎮 [Multiplayer Bomberman Game](https://github.com/louhabali/bomberman)  
-  Real-time multiplayer gameplay with WebSocket and countdown systems.
+---
 
-- ⚙️ [Mini JavaScript Framework](https://github.com/louhabali/js-mini-framework)  
-  A minimalist custom framework with virtual DOM, state management, and routing.
+### 🚀 Notable Projects
 
-- 🔗 [Forum](https://github.com/louhabali/realtime-forum)  
-  RESTful API with user auth, post likes/dislikes, SQLite, and WebSocket chat.
+| Project | Description |
+|--------|-------------|
+| 🎮 [Sliding Puzzle](https://github.com/louhabali/numpuzzle) | Fast-paced number-sliding game with a time challenge |
+| ⚙️ [Mini JS Framework](https://github.com/louhabali/js-mini-framework) | Virtual DOM, state, routing – from scratch |
+| 🔗 [Real-time Forum](https://github.com/louhabali/realtime-forum) | Auth, posts, likes/dislikes, chat with SQLite + WebSockets |
 
-### 📫 Reach Me
+---
 
-- GitHub: [github.com/louhabali](https://github.com/louhabali)
-- Email: *louhabali@gmail.com*
+### 📈 GitHub Stats
 
-> I build things from scratch, because I love learning how systems work under the hood.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=louhabali&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=louhabali&theme=radical&hide_border=false" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louhabali&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🧠 Quote I Live By
+
+```bash
+> “Build it until you understand it. Rebuild it until it’s beautiful.” — Ali Louhab
+
 
