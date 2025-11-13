@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali Louhab 👋</h1>
 
 <p align="center">
-  <em>A self-taught developer from Morocco 🇲🇦 passionate about low-level systems, elegant code, and building from scratch.</em>
+  <em>A self-taught developer from Morocco 🇲🇦 passionate about high-level concepts, elegant code, and building with creative solutions.</em>
 </p>
 
 ---
