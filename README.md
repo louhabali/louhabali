@@ -8,11 +8,11 @@
 
 ### 🧰 Tech Stack
 
-- **Languages:** Go (Golang), JavaScript, Rust  
-- **Web:** REST APIs, WebSockets, GraphQL  
-- **Database:** SQLite3 (raw queries, no ORM)  
-- **Frontend:** React.js, Next.js  
-- **Backend:** Custom servers in Go & Rust  
+- **Languages:** Go (Golang), JavaScript, Rust , java
+- **Api:** REST APIs, WebSockets, GraphQL  
+- **Database:** SQLite3 (raw queries),postgrSQL(ORM) 
+- **Frontend:** React.js, Next.js , angular 
+- **Backend:** Custom servers in Go & Rust , web apps with java (spring-boot)
 - **CLI:** Productivity command-line tools  
 - **Other:** Custom frameworks, game engines, algorithm design  
 
@@ -24,7 +24,7 @@
 |--------|-------------|
 | 🎮 [Sliding Puzzle](https://github.com/louhabali/numpuzzle) | Fast-paced number-sliding game with a time challenge |
 | ⚙️ [Mini JS Framework](https://github.com/louhabali/js-mini-framework) | Virtual DOM, state, routing – from scratch |
-| 🔗 [Real-time Forum](https://github.com/louhabali/realtime-forum) | Auth, posts, likes/dislikes, chat with SQLite + WebSockets |
+| 🔗 [01-blog](https://github.com/louhabali/01-blog) | angular with spring-boot , spring-security , postgres and maven to build a blog plateform |
 
 ---
 
