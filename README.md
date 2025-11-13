@@ -24,7 +24,7 @@
 |--------|-------------|
 | 🎮 [Sliding Puzzle](https://github.com/louhabali/numpuzzle) | Fast-paced number-sliding game with a time challenge |
 | ⚙️ [Mini JS Framework](https://github.com/louhabali/js-mini-framework) | Virtual DOM, state, routing – from scratch |
-| 🔗 [01-blog](https://github.com/louhabali/01-blog) | angular with spring-boot , spring-security , postgres and maven to build a blog plateform |
+| 🔗 [01-blog](https://github.com/louhabali/01blog) | angular with spring-boot , spring-security , postgres and maven to build a blog plateform |
 
 ---
 
