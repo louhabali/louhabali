@@ -1,158 +1,145 @@
 <div align="center">
 
-# Ali Louhab
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ali%20Louhab&fontAlign=50&fontAlignY=40&color=gradient&desc=Backend%20Engineer%20%7C%20System%20Builder%20%7C%20Morocco&descAlign=50&descAlignY=60"/>
 
-### Software Engineer • Backend Systems • Distributed Applications
+</div>
 
-Building scalable systems, custom tooling, and clean architectures  
-from Morocco 🇲🇦
+<h3 align="center">
+Building software by understanding how systems work internally
+</h3>
 
-[Portfolio](#) • [LinkedIn](#) • [Email](mailto:yourmail@email.com)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=louhabali&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I build software by understanding systems deeply —  
-not just using tools, but designing how they work.
+```yaml
+name: Ali Louhab
+location: Morocco
+focus:
+  - Backend Engineering
+  - Java Architecture
+  - Distributed Systems
+  - Microservices
+  - System Design
+  - Security & Infrastructure
 
-My focus is on:
+currently_learning:
+  - Spring Architecture Patterns
+  - API Gateway Design
+  - Reverse Proxy Internals
+  - Service Communication
+  - Event-Driven Systems
 
-- Backend engineering
-- Distributed systems
-- API architecture
-- Framework & tooling design
-- Performance-oriented applications
-- Solving complex problems from first principles
-
-I enjoy building things from scratch to fully understand  
-what happens under the hood.
+philosophy:
+  "Understand deeply. Build cleanly."
+```
 
 ---
 
-## Core Technologies
+# Tech Arsenal
 
-### Languages
-`Go` `Java` `Rust` `JavaScript`
+<div align="center">
 
-### Backend
-`Spring Boot` `REST APIs` `GraphQL` `WebSockets`
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-### Frontend
-`React` `Next.js` `Angular`
+![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
-### Databases
-`PostgreSQL` `SQLite`
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 
-### Engineering Concepts
-- Authentication / Authorization
-- Distributed architectures
-- Reverse proxies
-- API gateways
-- Security fundamentals
-- Concurrent systems
-- Protocol-level communication
-- System design patterns
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
+
+</div>
 
 ---
 
 # Featured Projects
 
-## 01 Blog Platform
+<div align="center">
 
-Production-style blog platform built with enterprise architecture.
+| Project | Stack |
+|---------|-------|
+| 🚀 **01Blog** | Angular • Spring Boot • PostgreSQL |
+| 🎮 **Bomberman** | WebSockets • Custom Framework |
+| ⚙️ **LocalServer** | Go • HTTP Internals |
 
-**Stack**
-
-- Angular
-- Spring Boot
-- Spring Security
-- PostgreSQL
-- Maven
-
-**Features**
-
-- Authentication & authorization
-- Secure session handling
-- Layered backend architecture
-- Full CRUD workflows
-- Clean API design
-
-[View Repository](https://github.com/louhabali/01blog)
+</div>
 
 ---
 
-## Bomberman Multiplayer
+# GitHub Analytics
 
-Real-time multiplayer browser game with custom networking logic.
+<div align="center">
 
-**Built with**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=louhabali&show_icons=true&theme=radical&hide_border=true"/>
 
-- JavaScript
-- WebSockets
-- Custom frontend architecture
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louhabali&layout=compact&theme=radical&hide_border=true"/>
 
-**Features**
+</div>
 
-- Real-time synchronization
-- Lobby / room management
-- Countdown system
-- Live player communication
-- Multiplayer event orchestration
+<div align="center">
 
-Built to explore low-level multiplayer architecture  
-and event-driven systems.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=louhabali&theme=radical&hide_border=true"/>
 
-[View Repository](https://github.com/louhabali)
+</div>
 
 ---
 
-## LocalServer
+# Contribution Graph
 
-Custom backend server built from scratch.
+<div align="center">
 
-**Focus**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=louhabali&theme=react-dark&hide_border=true"/>
 
-- HTTP internals
-- Request / response lifecycle
-- Routing architecture
-- Middleware design
-- Concurrent request handling
-
-Built to deeply understand how backend frameworks  
-work internally.
-
-[View Repository](https://github.com/louhabali)
+</div>
 
 ---
 
-## Currently Exploring
+# Current Exploration
 
-- Distributed system design
-- Infrastructure & deployment
-- Advanced Spring Security
-- Reverse proxy architecture
-- Low-level systems programming with Rust
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louhabali&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louhabali&layout=compact&hide_border=true&theme=transparent" />
-</p>
+```java
+System.out.println("Learning:");
+System.out.println("• Java Clean Architecture");
+System.out.println("• Microservices");
+System.out.println("• API Gateway");
+System.out.println("• Reverse Proxy");
+System.out.println("• Distributed Systems");
+System.out.println("• Secure Backend Design");
+```
 
 ---
 
-## Engineering Philosophy
+# Quote
 
-> Great software is built by understanding systems deeply enough  
-> to recreate them from scratch.
+<div align="center">
 
-**— Ali Louhab**
+### *"It doesn't matter how slowly you go as long as you don't stop."*
+
+— **Ali Louhab**
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect
+
+[GitHub](https://github.com/louhabali)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
