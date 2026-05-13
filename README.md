@@ -46,21 +46,49 @@ philosophy:
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/AJAX-000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring)
+![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-6DB33F?style=for-the-badge&logo=spring)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![REST API](https://img.shields.io/badge/RESTful_API-000?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<div align="center">
+
+- Frontend: HTML5, CSS3, JavaScript (ES6+), jQuery, Ajax, React.js, Redux, Angular, Next.js, Bootstrap
+- Backend: Node.js, Python, PHP (Laravel), Java, Spring Boot, Spring MVC, Spring Security, Spring Gateway, Go, Rust
+- Databases: MySQL, PostgreSQL, MongoDB, SQL Server, SQLite3
+- APIs & Architecture: RESTful APIs, GraphQL, WebSockets, Third-party integrations, Microservices
+- DevOps & Tools: Docker, Git, GitHub, Postman, NPM, SonarQube, UML, Agile/Scrum, Jira, Office
 
 </div>
 
@@ -98,11 +126,27 @@ philosophy:
 
 ---
 
-# Contribution Graph
+# GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=louhabali&theme=react-dark&hide_border=true"/>
+### 🎯 Contribution snapshot
+
+- Active on meaningful projects
+- Building backend systems and automation
+- Focused on consistent growth and learning
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=louhabali&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=louhabali&theme=react-dark&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
 
