@@ -21,7 +21,7 @@ Finding elegant solutions to complex problems through code and system design
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
     <h3 style="color: #87ceeb; margin: 0 0 10px;">ARCHITECTURE</h3>
-    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Monolithique , Microservices</p>
+    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Monolithic , Microservices</p>
   </div>
   <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
     <h3 style="color: #87ceeb; margin: 0 0 10px;">SECURITY</h3>
