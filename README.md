@@ -16,8 +16,6 @@ Finding elegant solutions to complex problems through code and system design
 
 ---
 
-# About Me
-
 <div align="center" style="background: #000000; border-radius: 20px; padding: 30px; margin: 20px 0; color: #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 2px solid #87ceeb;">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
@@ -43,7 +41,7 @@ Finding elegant solutions to complex problems through code and system design
 
 ---
 
-# Tech Arsenal
+# TECH
 
 <div align="center">
 
@@ -84,7 +82,7 @@ Finding elegant solutions to complex problems through code and system design
 </div>
 
 
-# Featured Projects
+# FEATURED
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
@@ -110,13 +108,11 @@ Finding elegant solutions to complex problems through code and system design
 
 ---
 
-# GitHub Analytics
+# ANALYTICS
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
 <img src="https://img.shields.io/github/followers/louhabali?style=for-the-badge&logo=github&color=white&label=Followers" />
-<img src="https://img.shields.io/github/stars/louhabali?style=for-the-badge&logo=github&color=87ceeb&label=Stars" />
-<img src="https://img.shields.io/github/repo-count/louhabali?style=for-the-badge&logo=github&color=white&label=Repos" />
 
 </div>
 
@@ -130,7 +126,7 @@ Finding elegant solutions to complex problems through code and system design
 
 ---
 
-# GitHub Highlights
+# HIGHLIGHTS
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
@@ -144,8 +140,8 @@ Finding elegant solutions to complex problems through code and system design
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb; color: #ffffff;">
 
-### Connect
+### CONNECT
 
-[LinkedIn](https://www.linkedin.com/in/louhabali/)
+[LINKEDIN](https://www.linkedin.com/in/louhabali/)
 
 </div>
