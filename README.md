@@ -81,29 +81,6 @@ Finding elegant solutions to complex problems through code and system design
 
 </div>
 
-
-# FEATURED
-
-<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
-
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;max-width:1000px;">
-  <div style="background:#000000;border:1px solid #87ceeb;border-radius:20px;padding:24px;width:300px;color:#ffffff;box-shadow:0 20px 30px rgba(0,0,0,0.5);">
-    <h3 style="margin-bottom:12px;color:#87ceeb;">01BLOG</h3>
-    <p style="margin:0 0 12px;">A polished blogging platform with Angular frontend, Spring Boot APIs, and PostgreSQL persistence.</p>
-    <p style="margin:0;font-size:14px;color:#ffffff;"><strong>Focus:</strong> content delivery, authentication, clean architecture.</p>
-  </div>
-  <div style="background:#000000;border:1px solid #87ceeb;border-radius:20px;padding:24px;width:300px;color:#ffffff;box-shadow:0 20px 30px rgba(0,0,0,0.5);">
-    <h3 style="margin-bottom:12px;color:#87ceeb;">BOMBERMAN</h3>
-    <p style="margin:0 0 12px;">Real-time multiplayer game built on WebSockets with a custom game engine and network sync.</p>
-    <p style="margin:0;font-size:14px;color:#ffffff;"><strong>Focus:</strong> low-latency communication, gameplay systems, server-client flow.</p>
-  </div>
-  <div style="background:#000000;border:1px solid #87ceeb;border-radius:20px;padding:24px;width:300px;color:#ffffff;box-shadow:0 20px 30px rgba(0,0,0,0.5);">
-    <h3 style="margin-bottom:12px;color:#87ceeb;">LOCALSERVER</h3>
-    <p style="margin:0 0 12px;">java-based non-blocking server with selectors internals , CGI handling and request/response parsing.</p>
-    <p style="margin:0;font-size:14px;color:#ffffff;"><strong>Focus:</strong> performance, protocol design, developer tooling.</p>
-  </div>
-</div>
-
 </div>
 
 ---
