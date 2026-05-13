@@ -13,32 +13,6 @@ Finding elegant solutions to complex problems through code and system design
 ![](https://komarev.com/ghpvc/?username=louhabali&style=flat-square&color=87ceeb)
 
 </div>
-
----
-
-<div align="center" style="background: #000000; border-radius: 20px; padding: 30px; margin: 20px 0; color: #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 2px solid #87ceeb;">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
-    <h3 style="color: #87ceeb; margin: 0 0 10px;">ARCHITECTURE</h3>
-    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Monolithic , Microservices</p>
-  </div>
-  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
-    <h3 style="color: #87ceeb; margin: 0 0 10px;">SECURITY</h3>
-    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Spring Security, Best Practices</p>
-  </div>
-  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
-    <h3 style="color: #87ceeb; margin: 0 0 10px;">FULL-STACK</h3>
-    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Frontend + Backend Integration</p>
-  </div>
-  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
-    <h3 style="color: #87ceeb; margin: 0 0 10px;">LEARNING</h3>
-    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">distributed systems , proxies and new patterns</p>
-  </div>
-</div>
-
-</div>
-
 ---
 
 # TECH
