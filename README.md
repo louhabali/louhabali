@@ -8,7 +8,7 @@
 Finding elegant solutions to complex problems through code and system design
 </h3>
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 12px; border-radius: 12px; display: inline-block;">
 
 ![](https://komarev.com/ghpvc/?username=louhabali&style=flat-square&color=87ceeb)
 
@@ -56,7 +56,6 @@ Finding elegant solutions to complex problems through code and system design
 
 </div>
 
----
 
 # ANALYTICS
 
@@ -74,8 +73,6 @@ Finding elegant solutions to complex problems through code and system design
 
 </div>
 
----
-
 # HIGHLIGHTS
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
@@ -84,9 +81,6 @@ Finding elegant solutions to complex problems through code and system design
 
 </div>
 
----
-
----
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb; color: #ffffff;">
 
