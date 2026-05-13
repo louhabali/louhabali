@@ -12,11 +12,11 @@ Finding elegant solutions to complex problems through code and system design
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=louhabali&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=louhabali&label=PROFILE+VIEWS&color=111111&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/louhabali?style=for-the-badge&color=blue&label=Followers" />
+<img src="https://img.shields.io/github/followers/louhabali?style=for-the-badge&label=FOLLOWERS&color=111111&logoColor=white" />
 
-<img src="https://img.shields.io/github/stars/louhabali?style=for-the-badge&color=yellow&label=Stars" />
+<img src="https://img.shields.io/github/stars/louhabali?style=for-the-badge&label=STARS&color=111111&logoColor=white" />
 
 </div>
 
@@ -26,69 +26,79 @@ Tech
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-87CEEB?style=for-the-badge&logo=jquery&logoColor=white)
-![Ajax](https://img.shields.io/badge/AJAX-FFFFFF?style=for-the-badge)
-![React](https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-87CEEB?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1e3a5f?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-1e3a5f?style=for-the-badge&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/AJAX-111111?style=for-the-badge)
+![React](https://img.shields.io/badge/React-1e3a5f?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1e3a5f?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring)
-![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-6DB33F?style=for-the-badge&logo=spring)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-111111?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-111111?style=for-the-badge&logo=spring&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1e3a5f?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
 
-![REST API](https://img.shields.io/badge/RESTful_API-000?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1e3a5f?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e3a5f?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1e3a5f?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
-
-</div>
-
-
-# ANALYTICS
-
-<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
-
-<img src="https://img.shields.io/badge/Top%20Language-Java-87ceeb?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Recent%20Activity-Active-white?style=for-the-badge&logo=github&logoColor=000000" />
-<img src="https://img.shields.io/badge/Open%20Source-Driven-87ceeb?style=for-the-badge&logo=github" />
+![REST API](https://img.shields.io/badge/RESTful_API-111111?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-1e3a5f?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-# HIGHLIGHTS
-
-<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
-
-<img src="https://github-profile-trophy.vercel.app/?username=louhabali&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
 
-<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb; color: #ffffff;">
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; letter-spacing: 0.16em; font-weight: 700; text-transform: uppercase; margin-top: 20px;">
+Analytics
+</h2>
 
-### CONNECT
+<div align="center">
 
-[LINKEDIN](https://www.linkedin.com/in/louhabali/)
+<img src="https://img.shields.io/badge/Top%20Language-Java-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Recent%20Activity-Active-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Driven-111111?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; letter-spacing: 0.16em; font-weight: 700; text-transform: uppercase; margin-top: 20px;">
+Highlights
+</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=louhabali&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+
+<div align="center">
+
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; letter-spacing: 0.16em; font-weight: 700; text-transform: uppercase; margin-top: 20px;">
+Connect
+</h2>
+
+<a href="https://www.linkedin.com/in/louhabali/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20to%20Connect-1e1e1e?style=flat-square&logo=github&logoColor=white" />
+
+</div>
 
 </div>
 
