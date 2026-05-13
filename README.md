@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ali%20Louhab&fontAlign=50&fontAlignY=40&color=gradient&desc=Backend%20Engineer%20%7C%20System%20Builder%20%7C%20Morocco&descAlign=50&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ali%20Louhab&fontAlign=50&fontAlignY=40&color=000000&fontColor=ffffff&desc=Java%20Full%20Stack%20Engineer%20%7C%20Morocco&descAlign=50&descAlignY=60"/>
 
 </div>
 
 <h3 align="center">
-Building software by understanding how systems work internally
+Finding elegant solutions to complex problems through code and system design
 </h3>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=louhabali&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=louhabali&color=white&style=for-the-badge)
 
 </div>
 
@@ -18,27 +18,34 @@ Building software by understanding how systems work internally
 
 # About Me
 
-```yaml
-name: Ali Louhab
-location: Morocco
-focus:
-  - Backend Engineering
-  - Java Architecture
-  - Distributed Systems
-  - Microservices
-  - System Design
-  - Security & Infrastructure
+<div align="center" style="background: #000000; border-radius: 20px; padding: 30px; margin: 20px 0; color: #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 2px solid #87ceeb;">
 
-currently_learning:
-  - Spring Architecture Patterns
-  - API Gateway Design
-  - Reverse Proxy Internals
-  - Service Communication
-  - Event-Driven Systems
+<h2 style="color: #87ceeb; margin-bottom: 20px; font-size: 2em;">Java Full Stack Developer | Morocco</h2>
 
-philosophy:
-  "Understand deeply. Build cleanly."
-```
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
+    <h3 style="color: #87ceeb; margin: 0 0 10px;">Architecture</h3>
+    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Microservices</p>
+  </div>
+  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
+    <h3 style="color: #87ceeb; margin: 0 0 10px;">Security</h3>
+    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Spring Security, Best Practices</p>
+  </div>
+  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
+    <h3 style="color: #87ceeb; margin: 0 0 10px;">Full Stack</h3>
+    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">Frontend + Backend Integration</p>
+  </div>
+  <div style="background: #111111; border-radius: 15px; padding: 15px; min-width: 180px; text-align: center; border: 1px solid #87ceeb;">
+    <h3 style="color: #87ceeb; margin: 0 0 10px;">Learning</h3>
+    <p style="margin: 0; font-size: 0.9em; color: #ffffff;">distributed systems , proxies and new patters</p>
+  </div>
+</div>
+
+<p style="font-style: italic; font-size: 1.1em; margin-top: 20px; color: #87ceeb;">
+"Code with purpose, build with passion."
+</p>
+
+</div>
 
 ---
 
@@ -46,14 +53,14 @@ philosophy:
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Ajax](https://img.shields.io/badge/AJAX-000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-87CEEB?style=for-the-badge&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/AJAX-FFFFFF?style=for-the-badge)
+![React](https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-87CEEB?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -82,27 +89,28 @@ philosophy:
 
 </div>
 
-<div align="center">
-
-- Frontend: HTML5, CSS3, JavaScript (ES6+), jQuery, Ajax, React.js, Redux, Angular, Next.js, Bootstrap
-- Backend: Node.js, Python, PHP (Laravel), Java, Spring Boot, Spring MVC, Spring Security, Spring Gateway, Go, Rust
-- Databases: MySQL, PostgreSQL, MongoDB, SQL Server, SQLite3
-- APIs & Architecture: RESTful APIs, GraphQL, WebSockets, Third-party integrations, Microservices
-- DevOps & Tools: Docker, Git, GitHub, Postman, NPM, SonarQube, UML, Agile/Scrum, Jira, Office
-
-</div>
-
----
 
 # Featured Projects
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
-| Project | Stack |
-|---------|-------|
-| 🚀 **01Blog** | Angular • Spring Boot • PostgreSQL |
-| 🎮 **Bomberman** | WebSockets • Custom Framework |
-| ⚙️ **LocalServer** | Go • HTTP Internals |
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;max-width:1000px;">
+  <div style="background:#000000;border:1px solid #87ceeb;border-radius:20px;padding:24px;width:300px;color:#ffffff;box-shadow:0 20px 30px rgba(0,0,0,0.5);">
+    <h3 style="margin-bottom:12px;color:#87ceeb;">01BLOG</h3>
+    <p style="margin:0 0 12px;">A polished blogging platform with Angular frontend, Spring Boot APIs, and PostgreSQL persistence.</p>
+    <p style="margin:0;font-size:14px;color:#ffffff;"><strong>Focus:</strong> content delivery, authentication, clean architecture.</p>
+  </div>
+  <div style="background:#000000;border:1px solid #87ceeb;border-radius:20px;padding:24px;width:300px;color:#ffffff;box-shadow:0 20px 30px rgba(0,0,0,0.5);">
+    <h3 style="margin-bottom:12px;color:#87ceeb;">BOMBERMAN</h3>
+    <p style="margin:0 0 12px;">Real-time multiplayer game built on WebSockets with a custom game engine and network sync.</p>
+    <p style="margin:0;font-size:14px;color:#ffffff;"><strong>Focus:</strong> low-latency communication, gameplay systems, server-client flow.</p>
+  </div>
+  <div style="background:#000000;border:1px solid #87ceeb;border-radius:20px;padding:24px;width:300px;color:#ffffff;box-shadow:0 20px 30px rgba(0,0,0,0.5);">
+    <h3 style="margin-bottom:12px;color:#87ceeb;">LOCALSERVER</h3>
+    <p style="margin:0 0 12px;">java-based non-blocking server with selectors internals , CGI handling and request/response parsing.</p>
+    <p style="margin:0;font-size:14px;color:#ffffff;"><strong>Focus:</strong> performance, protocol design, developer tooling.</p>
+  </div>
+</div>
 
 </div>
 
@@ -110,17 +118,19 @@ philosophy:
 
 # GitHub Analytics
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=louhabali&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louhabali&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/louhabali?style=for-the-badge&logo=github&color=white&label=Followers" />
+<img src="https://img.shields.io/github/stars/louhabali?style=for-the-badge&logo=github&color=87ceeb&label=Stars" />
+<img src="https://img.shields.io/github/repos/louhabali?style=for-the-badge&logo=github&color=white&label=Repos" />
 
 </div>
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=louhabali&theme=radical&hide_border=true"/>
+<img src="https://img.shields.io/github/last-commit/louhabali?style=for-the-badge&logo=github&label=Last%20Commit&color=87ceeb" />
+<img src="https://img.shields.io/github/languages/top/louhabali?style=for-the-badge&logo=github&label=Top%20Language&color=white" />
+<img src="https://img.shields.io/github/issues-closed-raw/louhabali?style=for-the-badge&logo=github&label=Closed%20Issues&color=87ceeb" />
 
 </div>
 
@@ -128,62 +138,20 @@ philosophy:
 
 # GitHub Highlights
 
-<div align="center">
-
-### 🎯 Contribution snapshot
-
-- Active on meaningful projects
-- Building backend systems and automation
-- Focused on consistent growth and learning
-
-</div>
-
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
 <img src="https://github-profile-trophy.vercel.app/?username=louhabali&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=louhabali&theme=react-dark&hide_border=true" alt="activity graph" width="100%" />
-
-</div>
+---
 
 ---
 
-# Current Exploration
-
-```java
-System.out.println("Learning:");
-System.out.println("• Java Clean Architecture");
-System.out.println("• Microservices");
-System.out.println("• API Gateway");
-System.out.println("• Reverse Proxy");
-System.out.println("• Distributed Systems");
-System.out.println("• Secure Backend Design");
-```
-
----
-
-# Quote
-
-<div align="center">
-
-### *"It doesn't matter how slowly you go as long as you don't stop."*
-
-— **Ali Louhab**
-
-</div>
-
----
-
-<div align="center">
+<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb; color: #ffffff;">
 
 ### Connect
 
-[GitHub](https://github.com/louhabali)
+[LinkedIn](https://Linkedin.com/louhabali)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
