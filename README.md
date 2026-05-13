@@ -1,20 +1,28 @@
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff;">
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ali%20Louhab&fontAlign=50&fontAlignY=40&color=000000&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20Morocco&descAlign=50&descAlignY=60"/>
 
 </div>
 
-<h3 align="center">
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; letter-spacing: 0.08em; font-weight: 500; line-height: 1.4; margin-top: 16px;">
 Finding elegant solutions to complex problems through code and system design
 </h3>
 
-<div align="center" style="background: #000000; padding: 12px; border-radius: 12px; display: inline-block;">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=louhabali&style=flat-square&color=87ceeb)
+<img src="https://komarev.com/ghpvc/?username=louhabali&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/louhabali?style=for-the-badge&color=blue&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/louhabali?style=for-the-badge&color=yellow&label=Stars" />
 
 </div>
 
-# TECH
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; letter-spacing: 0.16em; font-weight: 700; text-transform: uppercase; margin-top: 20px;">
+Tech
+</h2>
 
 <div align="center">
 
@@ -61,12 +69,6 @@ Finding elegant solutions to complex problems through code and system design
 
 <div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
 
-<img src="https://img.shields.io/github/followers/louhabali?style=for-the-badge&logo=github&color=white&label=Followers" />
-
-</div>
-
-<div align="center" style="background: #000000; padding: 20px; border-radius: 20px; margin: 20px 0; border: 2px solid #87ceeb;">
-
 <img src="https://img.shields.io/badge/Top%20Language-Java-87ceeb?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Recent%20Activity-Active-white?style=for-the-badge&logo=github&logoColor=000000" />
 <img src="https://img.shields.io/badge/Open%20Source-Driven-87ceeb?style=for-the-badge&logo=github" />
@@ -87,5 +89,7 @@ Finding elegant solutions to complex problems through code and system design
 ### CONNECT
 
 [LINKEDIN](https://www.linkedin.com/in/louhabali/)
+
+</div>
 
 </div>
