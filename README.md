@@ -13,7 +13,6 @@ Finding elegant solutions to complex problems through code and system design
 ![](https://komarev.com/ghpvc/?username=louhabali&style=flat-square&color=87ceeb)
 
 </div>
----
 
 # TECH
 
