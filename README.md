@@ -60,11 +60,14 @@ Tech
 ![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-1e3a5f?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-1e3a5f?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![SonarQube](https://img.shields.io/badge/SonarQube-111111?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Sonatype Nexus](https://img.shields.io/badge/Nexus-1e3a5f?style=for-the-badge&logo=sonatype&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
-
-</div>
-
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ffffff; letter-spacing: 0.16em; font-weight: 700; text-transform: uppercase; margin-top: 20px;">
 Analytics
@@ -82,7 +85,19 @@ Analytics
 Highlights
 </h2>
 
+<div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=louhabali&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=louhabali&theme=dark&background=111111&border=1e3a5f&stroke=1e3a5f&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Commit Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=louhabali&show_icons=true&include_all_commits=true&theme=dark&bg_color=111111&border_color=1e3a5f&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="GitHub Stats & Commits" />
+
+</div>
 
 <div align="center">
 
@@ -97,8 +112,6 @@ Connect
 <br><br>
 
 <img src="https://img.shields.io/badge/Open%20to%20Connect-1e1e1e?style=flat-square&logo=github&logoColor=white" />
-
-</div>
 
 </div>
 
