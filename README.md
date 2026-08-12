@@ -46,6 +46,7 @@ Tech
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-111111?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-111111?style=for-the-badge&logo=spring&logoColor=white)
+![OpenFeign](https://img.shields.io/badge/OpenFeign-1e3a5f?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Go](https://img.shields.io/badge/Go-1e3a5f?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
@@ -91,11 +92,11 @@ Highlights
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=louhabali&theme=dark&background=111111&border=1e3a5f&stroke=1e3a5f&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Commit Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=louhabali&theme=github-compact&bg_color=111111&color=ffffff&line=1e3a5f&point=ffffff&area=true&hide_border=true" alt="Ali's GitHub Activity Graph" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=louhabali&show_icons=true&include_all_commits=true&theme=dark&bg_color=111111&border_color=1e3a5f&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="GitHub Stats & Commits" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&label=TOTAL%20COMMITS%20(THIS%20YEAR)&query=$.data.user.contributionsCollection.restrictedContributionsCount&url=https://api.github.com/users/louhabali&logo=git&logoColor=white" />
 
 </div>
 
