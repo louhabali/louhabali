@@ -88,16 +88,12 @@ Highlights
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/louhabali/louhabali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://ghchart.rshah.org/1e3a5f/louhabali" alt="Ali's GitHub Contributions Chart" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=louhabali&theme=github-compact&bg_color=111111&color=ffffff&line=1e3a5f&point=ffffff&area=true&hide_border=true" alt="Ali's GitHub Activity Graph" width="100%" />
-
-<br><br>
-
-<img src="https://img.shields.io/github/search/louhabali/louhabali/active?style=for-the-badge&label=COMMIT%20ACTIVITY&color=111111&logo=git&logoColor=white" />
-<img src="https://img.shields.io/github/repos/louhabali?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=1e3a5f&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20CONTRIBUTOR-111111?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-1e3a5f?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
