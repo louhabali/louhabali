@@ -88,7 +88,7 @@ Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=louhabali&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://raw.githubusercontent.com/louhabali/louhabali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 <br><br>
 
@@ -96,7 +96,8 @@ Highlights
 
 <br><br>
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&label=TOTAL%20COMMITS%20(THIS%20YEAR)&query=$.data.user.contributionsCollection.restrictedContributionsCount&url=https://api.github.com/users/louhabali&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/search/louhabali/louhabali/active?style=for-the-badge&label=COMMIT%20ACTIVITY&color=111111&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/repos/louhabali?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=1e3a5f&logo=github&logoColor=white" />
 
 </div>
 
