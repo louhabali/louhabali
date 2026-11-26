@@ -29,10 +29,7 @@ Tech
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1e3a5f?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-1e3a5f?style=for-the-badge&logo=jquery&logoColor=white)
-![Ajax](https://img.shields.io/badge/AJAX-111111?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-1e3a5f?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-111111?style=for-the-badge&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,9 +40,6 @@ Tech
 ![Java](https://img.shields.io/badge/Java-1e3a5f?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-111111?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Gateway](https://img.shields.io/badge/Spring_Gateway-111111?style=for-the-badge&logo=spring&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-1e3a5f?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Go](https://img.shields.io/badge/Go-1e3a5f?style=for-the-badge&logo=go&logoColor=white)
@@ -57,11 +51,9 @@ Tech
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1e3a5f?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-111111?style=for-the-badge&logo=neo4j&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1e3a5f?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![REST API](https://img.shields.io/badge/RESTful_API-111111?style=for-the-badge)
-![REST Client](https://img.shields.io/badge/REST_Client-1e3a5f?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-1e3a5f?style=for-the-badge&logo=docker&logoColor=white)
